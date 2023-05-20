@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import { BsFillPlayFill, BsPauseFill } from 'react-icons'
+import { BsFillPlayFill, BsPauseFill } from 'react-icons/bs'
 import { meal } from '../../constants';
 import './Intro.css';
 
@@ -40,7 +40,6 @@ const Intro = () => {
            : <BsFillPlayFill color="#fff" fontSize={30} />
 
           }
-        
         </div>
       </div>
     </div>

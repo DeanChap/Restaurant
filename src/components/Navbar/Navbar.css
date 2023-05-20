@@ -5,8 +5,8 @@
     align-items: center;
     background: var(--color-black);
     padding: 1rem 2rem;
-    /* position: fixed;
-    z-index: 99; */
+    /* position: fixed; */
+    
 }
 
 .app__navbar-logo {
