@@ -11,7 +11,12 @@ const Header = () => (
         title='Chase the new flavour'
       />
       <h1 className='app__header-h1'>The Key To Fine Dining</h1>
-      <p className='p__opensans' style={{ margin: '2rem 0'}}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
+      <p className='p__opensans' style={{ margin: '2rem 0'}}>
+       Welcome to Gericht, where culinary excellence meets a warm, inviting ambiance.
+       Our passion for exceptional food and memorable dining experiences sets us apart.
+       Whether you're here for a casual meal or a special celebration, our attentive staff and stylish atmosphere create the perfect backdrop.
+       Join us and savor a culinary journey that delights the senses.
+      </p>
       <button type='button' className='custom__button'>Explore Menu</button>
     </div>
 
